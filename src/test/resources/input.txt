@@ -1,0 +1,3 @@
+-i name100,address100,number100
+-z
+-q

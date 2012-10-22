@@ -1,0 +1,13 @@
+#generated files
+target/
+
+#data file
+addressbook.xml
+
+#log files
+*.log
+
+#eclipse file
+.project
+.settings/
+.classpath

@@ -1,0 +1,10 @@
+	*********************************************
+	*  Copyright James Liu All Rights Reserved  *
+	*********************************************
+
+Please input the command you want to do, you can input -h to see the help
+One item is inserted successfully
+Please input the command you want to do, you can input -h to see the help
+Input error,Please input with the correct format
+Please input the command you want to do, you can input -h to see the help
+Exited
